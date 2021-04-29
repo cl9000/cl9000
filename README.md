@@ -18,7 +18,7 @@ I'm Changlu Wei.
 ---
 
 :surfer: 个人主页: https://cl9000.github.io/
-  + 博客: https://cl9000.github.io/ [迁移中]
+  + 博客: https://cl9000.github.io/ []
   + 简历: https://cl9000.github.io/me-cn/
   + 领英: https://www.linkedin.com/in/changlu-wei-084144211/
   + 知乎: https://www.zhihu.com/people/cl9000
@@ -30,10 +30,6 @@ I'm Changlu Wei.
 :rainbow: 微信公众号: [中文] 西牛技术云 [ID] 西牛技术云. 
 
 欢迎打开微信扫描下面二维码关注我，不定期更新 __AI技术、互联网求职__ 等高质量内容。往期精选内容可以[点我阅读](https://cl9000.github.io/)。
-
-<center>
-<img src="wechat_gzh.jpg" alt="QR code" width="50%"/>
-</center>
 
 <center>
   <a href="#公众号"><img src="https://img.shields.io/badge/weChat-微信群-blue.svg" alt="微信群"></a>
@@ -48,10 +44,11 @@ I'm Changlu Wei.
 
 <a name="微信"></a>
 <a name="公众号"></a>
-<img src="wechat_gzh.jpg" alt="QR code" width="50%"/>
+<center>
+<img src="wechat_gzh.jpg" alt="QR code" width="30%"/>
+</center>
 
-
-
+---
 
 ### Hi there 👋
 <!--
@@ -108,6 +105,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/antzuhl)
 
+---
   
 ## 云服务器
 
