@@ -1,54 +1,58 @@
 
-定期分享优质文章，如果想第一时间获取文章，大家可以去[【公众号】](#公众号)获取或者加我[【微信】](#公众号)提意见(别忘记**Star**哟)
+### Hi there 👋
 
-[【B站】](https://space.bilibili.com/216096892) 优质视频
+I'm Changlu Wei. 
 
-<p align="center">
+:surfer: My webpage: https://cl9000.github.io/
+  + Blog: https://cl9000.github.io/ [TODO]
+  + Resume: https://cl9000.github.io/me/
+  + Linkin: https://www.linkedin.com/in/changlu-wei-084144211/
+  + Zhihu: https://www.zhihu.com/people/cl9000
+  + Bilibili: https://space.bilibili.com/216096892
+  + Toutiao: https://www.toutiao.com/c/user/token/MS4wLjABAAAARlplVayP9aj8gYey97zf1eg4hm0QhkH4gmmYQHGcbWA
+  + Juejin: https://juejin.cn/user/1073559351603607
+  + CSDN: https://blog.csdn.net/weichanglu123
+
+:rainbow: WeChat Official Account: [中文] 西牛技术云 [ID] 西牛技术云. Scan the following QR code with Wechat App to subscribe me.
+
+---
+
+:surfer: 个人主页: https://cl9000.github.io/
+  + 博客: https://cl9000.github.io/ [迁移中]
+  + 简历: https://cl9000.github.io/me-cn/
+  + 领英: https://www.linkedin.com/in/changlu-wei-084144211/
+  + 知乎: https://www.zhihu.com/people/cl9000
+  + 哔哩哔哩: https://space.bilibili.com/216096892
+  + 头条: https://www.toutiao.com/c/user/token/MS4wLjABAAAARlplVayP9aj8gYey97zf1eg4hm0QhkH4gmmYQHGcbWA
+  + 掘金: https://juejin.cn/user/1073559351603607
+  + CSDN: https://blog.csdn.net/weichanglu123
+
+:rainbow: 微信公众号: [中文] 西牛技术云 [ID] 西牛技术云. 
+
+欢迎打开微信扫描下面二维码关注我，不定期更新 __AI技术、互联网求职__ 等高质量内容。往期精选内容可以[点我阅读](https://cl9000.github.io/)。
+
+<center>
+<img src="wechat_gzh.jpg" alt="QR code" width="50%"/>
+</center>
+
+<center>
   <a href="#公众号"><img src="https://img.shields.io/badge/weChat-微信群-blue.svg" alt="微信群"></a>
   <a href="#公众号"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-cl9000-lightgrey.svg" alt="公众号"></a>
-  <a href="https://space.bilibili.com/216096892"><img src="https://img.shields.io/badge/bilibili-哔哩哔哩-critical" alt="投稿"></a>
-  <a href="https://www.toutiao.com/c/user/token/MS4wLjABAAAARlplVayP9aj8gYey97zf1eg4hm0QhkH4gmmYQHGcbWA"><img src="https://img.shields.io/badge/toutiao-头条-9cf" alt="投稿"></a>
-  <a href="https://juejin.cn/user/1073559351603607"><img src="https://img.shields.io/badge/juejin-掘金-blue.svg" alt="投稿"></a>
-  <a href="https://www.zhihu.com/people/cl9000"><img src="https://img.shields.io/badge/zhihu-知乎-informational" alt="投稿"></a>
-  <a href="https://blog.csdn.net/weichanglu123"><img src="https://img.shields.io/badge/CSDN-CSDN-red" alt="投稿"></a>
-</p>
+  <a href="https://www.zhihu.com/people/cl9000"><img src="https://img.shields.io/badge/zhihu-知乎-informational" alt=""></a>
+  <a href="https://space.bilibili.com/216096892"><img src="https://img.shields.io/badge/bilibili-哔哩哔哩-critical" alt=""></a>
+  <a href="https://www.toutiao.com/c/user/token/MS4wLjABAAAARlplVayP9aj8gYey97zf1eg4hm0QhkH4gmmYQHGcbWA"><img src="https://img.shields.io/badge/toutiao-头条-9cf" alt=""></a>
+  <a href="https://juejin.cn/user/1073559351603607"><img src="https://img.shields.io/badge/juejin-掘金-blue.svg" alt=""></a>
+  <a href="https://blog.csdn.net/weichanglu123"><img src="https://img.shields.io/badge/CSDN-CSDN-red" alt=""></a>
+</center>
+<br />
 
-  
-# 项目经验 & 服务器
-
-[**【服务器搭建教程】**](https://github.com/AobingJava/JavaFamily/blob/master/docs/coderLife/%E6%95%99%E4%BD%A0%E5%9C%A8%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E9%9D%A2%E8%AF%95%E9%A1%B9%E7%9B%AE.md)。
-
->服务器购买
-<p align="left">
-    <a href="https://www.aliyun.com/minisite/goods?userCode=9ouwfh9x" target="_blank">
-        <img src="https://klxxcdn.oss-cn-hangzhou.aliyuncs.com/histudy/hrm/media/ali.jpg" width="100"/>
-    </a>
-</p>
-**[阿里云服务器优惠代金券100-300](https://www.aliyun.com/minisite/goods?userCode=9ouwfh9x)**
-
-活动折扣价：89/年，223/3年，比学生9.9每月还便宜[(仅阿里云新用户可用)](https://www.aliyun.com/minisite/goods?userCode=9ouwfh9x)
-
-**推荐买三年的划算点** [【点击购买】](https://www.aliyun.com/minisite/goods?userCode=9ouwfh9x)
-
-<p align="left">
-    <a href="https://cloud.tencent.com/act/cps/redirect?redirect=10488&cps_key=016e162717176249376c8016ef9f6186&from=activity" target="_blank">
-        <img src="https://cloudcache.tencent-cloud.com/qcloud/portal/kit/images/logo-bg-color.7d46f50f.svg" width="100"/>
-    </a>
-</p>
-
-[腾讯云服务器【点击购买】](https://cloud.tencent.com/act/cps/redirect?redirect=10488&cps_key=016e162717176249376c8016ef9f6186&from=activity)
-活动折扣价：95/年，288/3年，赶到节假日搞活动更优惠[(仅新用户可用)](https://cloud.tencent.com/act/cps/redirect?redirect=10488&cps_key=016e162717176249376c8016ef9f6186&from=activity)
-
-**推荐买三年的划算点** [【点击购买】](https://cloud.tencent.com/act/cps/redirect?redirect=10488&cps_key=016e162717176249376c8016ef9f6186&from=activity)
-
->当日也可以白嫖**亚马逊**一年
-
- <a name="微信"></a><a name="公众号"></a>
+<a name="微信"></a>
+<a name="公众号"></a>
+<img src="wechat_gzh.jpg" alt="QR code" width="50%"/>
 
 
 
 
-## ###############################################################################################################################
 ### Hi there 👋
 <!--
 **cl9000/cl9000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -103,3 +107,27 @@ Here are some ideas to get you started:
 
 ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/antzuhl)
+
+  
+## 云服务器
+
+[**【服务器搭建教程】**](https://github.com/AobingJava/JavaFamily/blob/master/docs/coderLife/%E6%95%99%E4%BD%A0%E5%9C%A8%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E9%9D%A2%E8%AF%95%E9%A1%B9%E7%9B%AE.md)。
+
+<p align="left">
+    <a href="https://www.aliyun.com/minisite/goods?userCode=9ouwfh9x" target="_blank">
+        <img src="https://klxxcdn.oss-cn-hangzhou.aliyuncs.com/histudy/hrm/media/ali.jpg" width="100"/>
+    </a>
+</p>
+
+[ **1、阿里云服务器优惠代金券100-300** 【点击购买】](https://www.aliyun.com/minisite/goods?userCode=9ouwfh9x)
+
+<p align="left">
+    <a href="https://cloud.tencent.com/act/cps/redirect?redirect=10488&cps_key=016e162717176249376c8016ef9f6186&from=activity" target="_blank">
+        <img src="https://cloudcache.tencent-cloud.com/qcloud/portal/kit/images/logo-bg-color.7d46f50f.svg" width="100"/>
+    </a>
+</p>
+
+[ **2、腾讯云服务器**【点击购买】](https://cloud.tencent.com/act/cps/redirect?redirect=10488&cps_key=016e162717176249376c8016ef9f6186&from=activity)
+
+[ **3、亚马逊云服务器** 免费试用一年](https://aws.amazon.com/cn/?nc2=h_lg)
+
